@@ -1,1 +1,1 @@
-# DolgozatFullLinq
+.net 8.0
