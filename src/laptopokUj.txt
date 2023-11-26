@@ -1,0 +1,42 @@
+Processzor típusa és sebessége: Intel Core i5 1135G7 2,4, Súlya: 1400 gramm
+Processzor típusa és sebessége: AMD Ryzen 7 5800U 3,2, Súlya: 1000 gramm
+Processzor típusa és sebessége: Intel Core i7 1185G7 3,0, Súlya: 1130 gramm
+Processzor típusa és sebessége: AMD Ryzen 5 Pro 4650U 2,1, Súlya: 1300 gramm
+Processzor típusa és sebessége: Intel Core i7 1160G7 2,1, Súlya: 1200 gramm
+Processzor típusa és sebessége: Intel Core i5 1145G7 2,6, Súlya: 1500 gramm
+Processzor típusa és sebessége: AMD Ryzen 9 5900HS 3,3, Súlya: 1330 gramm
+Processzor típusa és sebessége: Intel Core i7 11800H 2,3, Súlya: 1400 gramm
+Processzor típusa és sebessége: AMD Ryzen 7 Pro 5850U 1,9, Súlya: 2000 gramm
+Processzor típusa és sebessége: Intel Core i7 10810U 1,1, Súlya: 1130 gramm
+Processzor típusa és sebessége: AMD Ryzen 5 5600U 2,3, Súlya: 1300 gramm
+Processzor típusa és sebessége: Intel Core i5 10210U 1,6, Súlya: 1100 gramm
+Processzor típusa és sebessége: AMD Ryzen 7 4700U 2,0, Súlya: 2000 gramm
+Processzor típusa és sebessége: Intel Core i7 10510U 1,8, Súlya: 1700 gramm
+Processzor típusa és sebessége: AMD Ryzen 5 Pro 3500U 2,1, Súlya: 1000 gramm
+Processzor típusa és sebessége: Intel Core i5 10310U 1,7, Súlya: 1200 gramm
+Processzor típusa és sebessége: AMD Ryzen 7 4700U 2,0, Súlya: 1500 gramm
+Processzor típusa és sebessége: Intel Core i7 1165G7 2,8, Súlya: 1200 gramm
+Processzor típusa és sebessége: AMD Ryzen 5 Pro 4650U 2,1, Súlya: 1500 gramm
+Processzor típusa és sebessége: Intel Core i7 1165G7 2,8, Súlya: 1000 gramm
+Processzor típusa és sebessége: AMD Ryzen 7 5700U 1,8, Súlya: 1200 gramm
+Processzor típusa és sebessége: Intel Core i5 1135G7 2,4, Súlya: 1280 gramm
+Processzor típusa és sebessége: AMD Ryzen 5 5500U 2,1, Súlya: 1000 gramm
+Processzor típusa és sebessége: Intel Core i7 10750H 2,6, Súlya: 1500 gramm
+Processzor típusa és sebessége: AMD Ryzen 9 5900HX 3,3, Súlya: 1500 gramm
+Processzor típusa és sebessége: Intel Core i9 11900H 2,5, Súlya: 2100 gramm
+Processzor típusa és sebessége: AMD Ryzen 7 5800H 3,2, Súlya: 1130 gramm
+Processzor típusa és sebessége: Intel Core i7 11800H 2,3, Súlya: 1500 gramm
+Processzor típusa és sebessége: AMD Ryzen 9 5900HX 3,3, Súlya: 2600 gramm
+Processzor típusa és sebessége: Intel Core i7 11800H 2,3, Súlya: 2500 gramm
+Processzor típusa és sebessége: AMD Ryzen 9 5900HX 3,3, Súlya: 4100 gramm
+Processzor típusa és sebessége: Intel Core i7 1185G7 3,0, Súlya: 1300 gramm
+Processzor típusa és sebessége: AMD Ryzen 9 5980HS 3,3, Súlya: 1900 gramm
+Processzor típusa és sebessége: Intel Core i9 10980HK 2,4, Súlya: 2500 gramm
+Processzor típusa és sebessége: AMD Ryzen 9 5980HX 3,3, Súlya: 4500 gramm
+Processzor típusa és sebessége: Intel Core i9 11900HK 2,9, Súlya: 2100 gramm
+Processzor típusa és sebessége: AMD Ryzen 9 5900HX 3,3, Súlya: 2100 gramm
+Processzor típusa és sebessége: Intel Core i7 10870H 2,2, Súlya: 2500 gramm
+Processzor típusa és sebessége: AMD Ryzen 9 5900HS 3,3, Súlya: 1600 gramm
+Processzor típusa és sebessége: Intel Core i9 10980HK 2,4, Súlya: 2600 gramm
+Processzor típusa és sebessége: AMD Ryzen 9 5900HX 3,3, Súlya: 2600 gramm
+Processzor típusa és sebessége: Intel Core i7 11800H 2,3, Súlya: 2500 gramm
